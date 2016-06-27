@@ -1,0 +1,9 @@
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.exe.config
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.csprojResolveAssemblyReference.cache
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.Form1.resources
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.Cache
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.exe
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.pdb
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.exe
+c:\users\shoe\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.pdb
